@@ -1,0 +1,8 @@
+node modules
+.vscode
+package-lock.json
+package.json
+tsconfig.json
+pnpm-lock.yaml
+web-crawl.ts
+common.txt
